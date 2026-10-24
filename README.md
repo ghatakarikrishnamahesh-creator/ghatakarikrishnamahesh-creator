@@ -40,10 +40,12 @@
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,githubactions,aws,terraform" />
 </p>
 
-### 🗄️ Databases & Tools
+
+### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Development tools" />
 </p>
+
 
 ---
 
