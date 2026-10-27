@@ -26,8 +26,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
+### 💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
 ### 🌐 Web Development & Backend
