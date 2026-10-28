@@ -65,7 +65,6 @@ A GPU monitoring dashboard concept focused on tracking GPU temperature, utilizat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghatakarikrishnamahesh-creator&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghatakarikrishnamahesh-creator&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
