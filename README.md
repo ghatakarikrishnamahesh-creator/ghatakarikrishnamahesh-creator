@@ -28,7 +28,7 @@
 ### 💻 Programming
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
 </p>
 
 ### 🌐 Web Development & Backend
